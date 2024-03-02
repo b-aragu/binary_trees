@@ -1,7 +1,7 @@
 ## Binary Trees🌳🖥️🌲
 - It is a data structure with root node having atmost 2 childs, left and right 
 - It is used for storing data in a tree format
-A Binary Tree is a tree data structure where each node has at most two children, referred to as the left child and the right child. It is a widely used structure for various applications, such as searching, sorting, and expression parsing.
+- A Binary Tree is a tree data structure where each node has at most two children, referred to as the left child and the right child. It is a widely used structure for various applications, such as searching, sorting, and expression parsing.
 
 ## Binary Tree Operations
 
